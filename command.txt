@@ -1,0 +1,5 @@
+docker-compose up -f docker-compose.yml -d 
+
+OR 
+
+docker-compose up -d
